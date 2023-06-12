@@ -1,8 +1,6 @@
 /**
  * Date: 2/13/2023
  * Name: Maira Bermeo
- * CUNY ID: 24175075
- * Lab Section: 11A
  * This program serves as a counter for lower and upper case e's. In a for loop a user will be asked to input
  * a sentence. The code will then call the method labeled "counter" to look at each individual character 
  * in order to see if any words contain a lower or upper case "e" and add it to its respected counter. 
