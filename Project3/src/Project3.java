@@ -2,8 +2,6 @@
 /**
  * Date: 4/21/2023
  * Name: Maira Bermeo
- * CUNY ID: 24175075
- * Lab Section: 11A
  * Function: 
  * The Project2 class is the main class of the Roman numeral project.
  * It reads a list of Roman numerals from an input file, converts them to
