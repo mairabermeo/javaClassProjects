@@ -5,8 +5,6 @@
  *
  * @Author Maira Bermeo
  * @Date 5/10/2023
- * LabSection: 11A
- * CUNY ID: 24175075
  * Function: This class serves as the entry point for the Roman Numeral GUI application.
  */
 public class Project4 {
